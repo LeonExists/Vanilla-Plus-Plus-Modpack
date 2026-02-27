@@ -1,6 +1,6 @@
-# 🌍 Echoes of the Overworld
+# 🌍 Vanilla++
 
-A Vanilla+ exploration-focused Minecraft modpack designed for immersive multiplayer survival with enhanced world generation, upgraded structures, atmospheric visuals, and strong performance optimization.
+A carefully crafted Vanilla+ Minecraft modpack focused on immersive exploration, enhanced world generation, upgraded structures, atmospheric visuals, and strong performance optimization.
 
 This repository contains the exported `.mrpack` file for easy import into the **Modrinth App**.
 
@@ -9,13 +9,13 @@ This repository contains the exported `.mrpack` file for easy import into the **
 ## ✨ Features
 
 - 🏰 Overhauled structures (YUNG’s Better series)
-- 🔥 Enhanced Nether & End biomes
-- 🌌 Deeper caves and expanded underground exploration
+- 🔥 Enhanced Nether & End biomes (Better Nether & Better End)
+- 🌌 Expanded cave depth and exploration (Deeper and Darker)
 - 🌧 Immersive sound physics, particles, and dynamic lighting
-- 🎒 Quality-of-life improvements (JEI, Jade, minimap, tooltips, etc.)
-- ⚡ Performance optimized (Sodium, Lithium, FerriteCore, and more)
+- 🎒 Quality-of-life improvements (JEI, Jade, minimap, tooltips, backpacks, etc.)
+- ⚡ Performance optimized (Sodium, Lithium, FerriteCore, ImmediatelyFast, and more)
 
-This pack keeps the core Minecraft experience intact — just deeper, richer, and more immersive.
+Vanilla++ keeps the core Minecraft experience intact — just deeper, richer, and more immersive.
 
 ---
 
@@ -32,7 +32,7 @@ This pack keeps the core Minecraft experience intact — just deeper, richer, an
 
 ## ⚙️ Requirements
 
-- Minecraft: 1.20.1 *(change if needed)*
+- Minecraft: 1.20.1 *(adjust if needed)*
 - Mod Loader: Fabric
 - Modrinth App (recommended for automatic dependency handling)
 
